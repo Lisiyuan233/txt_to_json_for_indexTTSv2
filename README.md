@@ -1,0 +1,2 @@
+# txt_to_json_for_indexTTSv2
+这是一个利用DeepSeek API将TXT文本转换为index-tts v2引擎有声书脚本管理器所需JSON格式的工具。
